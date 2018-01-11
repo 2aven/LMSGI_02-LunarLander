@@ -1,7 +1,7 @@
 # LMSGI_02-Lunar
 ## Lunar Landing (HTML, CSS i JavaScript)
 
-### [Aterratge Lunar](https://rawgit.com/2aven/LMSGI_02-LunarLanding/master/index.html)
+### [Aterratge Lunar](https://rawgit.com/2aven/LMSGI_02-LunarLander/master/index.html)
 
 Planificació:
 1. [x] Modificar disseny principal del HTML/CSS per corregir sobreposició cohet/menú (a resolució molt reduida).
@@ -28,7 +28,7 @@ Planificació:
     - [x] Botons de configuració de dificultat.
     - [x] Comportament en diferents modes de dificultat.
     - [x] Contingut (i).
-1. [ ] [Validació][Validator]
+1. [x] [Validació][Validator]
 1. [ ] Crear una branca github amb versió mimificada
     - [ ] HTML
     - [ ] CSS
