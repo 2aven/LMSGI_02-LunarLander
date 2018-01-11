@@ -29,10 +29,10 @@ Planificació:
     - [x] Comportament en diferents modes de dificultat.
     - [x] Contingut (i).
 1. [x] [Validació][Validator]
-1. [ ] Crear una branca github amb versió mimificada
-    - [ ] HTML
-    - [ ] CSS
-    - [ ] JS
-    - [ ] [Validació][Validator]
+1. [x] Crear una branca github amb versió mimificada
+    - [x] HTML
+    - [x] CSS
+    - [x] JS
+    - [x] [Validació][Validator]
 
 [Validator]: https://validator.w3.org/
