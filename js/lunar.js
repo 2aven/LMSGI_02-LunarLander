@@ -159,7 +159,6 @@ function aterratge(){
 
 	// Nombres en ordre (evitar decimals)
 	y=0;
-	v=0;
 	coet.style.bottom = y+"%";
 	lat.innerHTML= y.toFixed(2);
 	vel.innerHTML= v.toFixed(2);
@@ -235,7 +234,7 @@ function configurar(){
 		imgcoet.src= imgprevia;
 		coet.style.bottom= y+"%";
 
-		if (y) bplay.style.display= "block";
+		if (y || modificat) bplay.style.display= "block";
 		else bplay.style.display= "none";	// no mostrar botó PLAY si ja ha aterrat.
 
 		if (modificat) recarga();
