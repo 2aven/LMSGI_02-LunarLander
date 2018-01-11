@@ -28,6 +28,7 @@ Planificació:
     - [x] Botons de configuració de dificultat.
     - [x] Comportament en diferents modes de dificultat.
     - [x] Contingut (i).
+    - [x] Revisió ortogràfica i gramatical amb [SoftCatala](https://www.softcatala.org/corrector/)
 1. [x] [Validació][Validator]
 1. [x] Crear una branca github amb versió mimificada
     - [x] HTML
