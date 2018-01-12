@@ -30,7 +30,7 @@ Planificació:
 1. [x] Contingut (i).
 1. [x] Revisió ortogràfica i gramatical amb [SoftCatala](https://www.softcatala.org/corrector/)
 1. [x] [Validació][Validator]
-    - [x] Separar '<meta charset="UTF-8"/>' de '<meta name... />'
+    - [x] Separar `<meta charset="UTF-8"/>` de `<meta name... />`
 1. [x] Crear una branca github amb versió mimificada
     - [x] HTML
     - [x] CSS
